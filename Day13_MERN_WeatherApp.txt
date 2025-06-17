@@ -1,0 +1,24 @@
+Day 13 of #30Days30Projects
+Project: Weather App
+Tech Used: ReactJS, Axios, WeatherAPI, Geolocation API
+Live Demo: https://day13-mern-weatherapp.web.app/
+GitHub: [Add your repo link]
+
+Built a Weather App that lets you:
+	Search weather by city name
+	Get weather via your device's GPS
+	See real-time temperature, humidity, UV index, cloud %, wind, and more
+	Visual feedback with weather icons
+	Protected API key using .env file (no leaks!)
+
+
+What I Learned:
+How to use axios for fetching data from REST APIs
+Securely manage API keys with .env in React apps
+Use the Geolocation API to fetch current user location
+Conditional rendering & handling API errors with toast
+
+
+Massive thanks to @Kamal Shah Sir for keeping the challenge going strong! 🚀
+
+#ReactJS #WeatherApp #OpenWeather #FrontendDevelopment #30Days30Projects #JavaScript #WebDev #Geolocation #APIIntegration #Axios #EnvironmentVariables #ReactHooks
